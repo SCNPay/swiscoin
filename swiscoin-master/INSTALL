@@ -1,9 +1,0 @@
-Building Swiscoin
-
-See doc/readme-qt.rst for instructions on building Swiscoin-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Swiscoin.
-
-See doc/build-*.txt for instructions on building swiscoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Swiscoin.

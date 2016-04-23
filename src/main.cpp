@@ -1106,8 +1106,8 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 1 * 60 * 60; // Swiscoin: 5 minutes
-static const int64 nTargetSpacing = 1 * 120; // Swiscoin: 30 Seconds.
+static const int64 nTargetTimespan = 1 * 60 * 60; // Swiscoin: 1 Hours
+static const int64 nTargetSpacing = 1 * 120; // Swiscoin: 2 Minites
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //

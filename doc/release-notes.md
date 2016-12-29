@@ -47,7 +47,7 @@
 
 - Up to 50% faster PoW validation, faster sync and reindexing.
 
-- Peers older than protocol version 70002 are disconnected.  0.8.3.7 is the oldest compatible client.
+- Peers older than protocol version 70002 are disconnected.
 
 - Internal miner added back to Swiscoin.  setgenerate now works, although it is generally a bad idea as it is significantly slower than external CPU miners.
 

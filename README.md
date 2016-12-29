@@ -5,7 +5,7 @@ http://www.swisopensource.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2015-2016 Swiscoin Developers
+Copyright (c) 2015-2017 Swiscoin Developers
 
 What is Swiscoin?
 ----------------

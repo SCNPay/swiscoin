@@ -7,6 +7,10 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2015-2017 Swiscoin Developers
 
+Important News
+-----------------
+We have fixed BlockChain fork Issue and Updated Protocol Version from 70002 to 70003. And we are working on new update to prevent this type of issue in future. It may take some time. New updates will be added soon.
+
 What is Swiscoin?
 ----------------
 

@@ -1,7 +1,7 @@
 Important News
 -----------------
 Swiscoin SCN will no longer available after March 15 2017 00:00:00 GMT.
-New Swiscoin will be available on https://github.com/SCNPay/Swiscoin-Master that is MSCN
+New Swiscoin will be available on https://github.com/SCNPay/Swiscoin-Master that is MSCN.
 Users can swap SCN to MSCN on www.swiswallet.com before 15 March 2017.
 
 

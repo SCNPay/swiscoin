@@ -1,3 +1,11 @@
+Important News
+-----------------
+Swiscoin SCN will no longer available after March 15 2017 00:00:00 GMT.
+New Swiscoin will be available on https://github.com/SCNPay/Swiscoin-Master that is MSCN
+Users can swap SCN to MSCN on www.swiswallet.com before 15 March 2017.
+
+
+
 Swiscoin integration/staging tree
 ================================
 
@@ -6,12 +14,6 @@ http://www.swisopensource.com
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2015-2017 Swiscoin Developers
-
-Important News
------------------
-We have fixed BlockChain fork Issue and Updated Protocol Version from 70002 to 71003. 
-Difficulty algorithm changed to DGW.. 
-Changes take effect on Jan 25, 00:00:00 GMT.
 
 What is Swiscoin?
 ----------------
